@@ -1,0 +1,20 @@
+.text{
+    color:blue;
+    font-style:italic;
+}
+
+.author{
+    color: brown;
+    font-weight: bold
+}
+.contenedor{
+    height: auto;
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+.welcome{
+    font-size: medium;
+}
